@@ -2,7 +2,7 @@
 Simple Wine Auction Site
 
 
-# Version dependencies:
+## Version dependencies:
 
 Python3  3.9.2
 Django 4.2.4
